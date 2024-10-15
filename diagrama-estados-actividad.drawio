@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17">
+  <diagram name="Pàgina-1" id="pOdnet1X-Fv4dwwYD2MK">
+    <mxGraphModel dx="1114" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LL7FzIEs-ukfW-oBzwPE-1" target="LL7FzIEs-ukfW-oBzwPE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-8" value="&lt;div&gt;El usuario hace una reserva&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LL7FzIEs-ukfW-oBzwPE-7">
+          <mxGeometry x="-0.0286" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LL7FzIEs-ukfW-oBzwPE-2" target="LL7FzIEs-ukfW-oBzwPE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-2" value="&lt;div&gt;Reserva activa&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LL7FzIEs-ukfW-oBzwPE-4" target="LL7FzIEs-ukfW-oBzwPE-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-4" value="&lt;div&gt;Reserva cancelada&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LL7FzIEs-ukfW-oBzwPE-5" target="LL7FzIEs-ukfW-oBzwPE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LL7FzIEs-ukfW-oBzwPE-5" target="LL7FzIEs-ukfW-oBzwPE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-5" value="Reserva finalizada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LL7FzIEs-ukfW-oBzwPE-6" target="LL7FzIEs-ukfW-oBzwPE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-16" value="Vuelve al estado inicial" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LL7FzIEs-ukfW-oBzwPE-15">
+          <mxGeometry x="0.0133" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-6" value="&lt;div&gt;Reserva replanificada&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LL7FzIEs-ukfW-oBzwPE-9" target="LL7FzIEs-ukfW-oBzwPE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-18" value="&lt;div&gt;La reserva ha finalizado,&lt;/div&gt;&lt;div&gt;es decir, ya ha pasado&lt;/div&gt;&lt;div&gt;el día y la hora&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LL7FzIEs-ukfW-oBzwPE-11">
+          <mxGeometry x="-0.0571" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LL7FzIEs-ukfW-oBzwPE-9" target="LL7FzIEs-ukfW-oBzwPE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-19" value="&lt;div&gt;El usuario ha cancelado&lt;/div&gt;&lt;div&gt;la reserva con un &lt;br&gt;&lt;/div&gt;&lt;div&gt;motivo&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LL7FzIEs-ukfW-oBzwPE-12">
+          <mxGeometry x="-0.2522" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LL7FzIEs-ukfW-oBzwPE-9" target="LL7FzIEs-ukfW-oBzwPE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-14" value="&lt;div&gt;El usuario quiere&lt;/div&gt;&lt;div&gt;cambiar fecha o &lt;br&gt;&lt;/div&gt;&lt;div&gt;la hora&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LL7FzIEs-ukfW-oBzwPE-13">
+          <mxGeometry x="-0.0588" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="380" y="530" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LL7FzIEs-ukfW-oBzwPE-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="665" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
